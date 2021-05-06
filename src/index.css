@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+h3 {
+  color: rgb(122, 122, 122);
+}
+
+.spinner-border {
+  margin: auto;
+  margin-top: 30px;
+}
+
+.suggestion {
+  font-size: 13px;
+  margin-bottom: 0px;
+  color: darkgray;
+  font-weight: 700;
+}
+
+.suggestion span {
+  font-weight: 500;
+}
+
+.timeStamp {
+  font-size: 13px;
+  margin-bottom: 5px;
+  color: darkgray;
+  font-weight: 500;
+}
+
+.del-todo.btn,
+.info-todo.btn {
+  margin-top: 7px;
+  margin-right: 5px;
+  float: right;
+  padding: 0rem 0.3rem;
+}
+
+.back-todo.btn {
+  width: 25px;
+  float: left;
+  padding: 0rem 0.3rem;
+}
+
+.card {
+  text-align: left;
+}
+
+.app-container {
+  padding-top: 30px;
+  width: 50%;
+  max-width: 500px;
+  margin: auto;
+}
+
+.text-muted {
+  text-align: left;
+  padding-left: 7px;
+}
+
+.toast {
+  margin: auto;
+  margin-top: 18px;
+}
+
+.not-found {
+  display: flex;
+  justify-content: center;
+}
+
+.not-found img {
+  width: 700px;
+}
+
+.App {
+  text-align: center;
+}
