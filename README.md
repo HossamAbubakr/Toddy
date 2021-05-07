@@ -53,7 +53,7 @@ Mock server was used for the backend to simulate connecting to an API.
 
 8. Each component in the redux branch has all the refactoring steps to switch from state to Redux.
 
-9. Each component in the advanced router branch has all the refactoring steps to extend implement router params and 404 routing.
+9. Each component in the advanced router branch has all the refactoring steps to implement router params and 404 routing.
 
 ## Structure 
 **Main Branch**
