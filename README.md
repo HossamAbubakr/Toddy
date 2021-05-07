@@ -80,7 +80,6 @@ Mock server was used for the backend to simulate connecting to an API.
 **Redux**
 ```
 +---public
-|       404.gif
 |       index.html
 |       manifest.json
 |       robots.txt
@@ -96,9 +95,7 @@ Mock server was used for the backend to simulate connecting to an API.
     |       AddTodo.js
     |       App.js
     |       NavBar.js
-    |       NotFound.js
     |       Todo.js
-    |       TodoDetails.js
     |       Todos.js
     |
     +---middleware
