@@ -13,7 +13,7 @@ export default function NavBar() {
           <Nav.Link as={Link} to="/">
             Home
           </Nav.Link>
-          <Nav.Link as={Link} to="add">
+          <Nav.Link as={Link} to="/add">
             Add Todo
           </Nav.Link>
         </Nav>
